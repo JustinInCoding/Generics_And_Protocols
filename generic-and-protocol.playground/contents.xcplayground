@@ -4,5 +4,6 @@
         <page name='Parametric-Polymorphism'/>
         <page name='Generic-Constraints'/>
         <page name='Associated-Types'/>
+        <page name='Challenge-Generics'/>
     </pages>
 </playground>

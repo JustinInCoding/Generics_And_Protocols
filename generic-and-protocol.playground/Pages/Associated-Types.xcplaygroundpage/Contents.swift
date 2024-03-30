@@ -1,7 +1,5 @@
 //: [Previous](@previous)
 
-import Foundation
-
 // Copyright (c) 2018 Razeware LLC
 // See Copyright Notice page for details about the license.
 
