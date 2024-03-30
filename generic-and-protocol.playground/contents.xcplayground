@@ -6,5 +6,6 @@
         <page name='Associated-Types'/>
         <page name='Challenge-Generics'/>
         <page name='Associated-Type-Constraints'/>
+        <page name='Conditional-Conformance'/>
     </pages>
 </playground>
